@@ -1,4 +1,6 @@
-### Hi there 👋
+### 👋 Hi I'm Ashing
+
+🤔 I fouucs on computer science and cyber security.
 
 <!--
 **ashin9/ashin9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
